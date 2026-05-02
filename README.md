@@ -29,7 +29,7 @@
 
 ```bash
 # 1. Clonez ou téléchargez le projet
-git clone https://github.com/votre-nom/lynx.git
+git clone https://github.com/Skyssy7/lynx.git
 cd lynx
 
 # 2. Installez les dépendances
